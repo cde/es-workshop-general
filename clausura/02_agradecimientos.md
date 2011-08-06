@@ -32,8 +32,8 @@ It is the only thing that ever has"
 * Y a nuestros Voluntarios
 
 !SLIDE
-# No te pierdas! 
-
+# Siguiente Paso
+* http://www.wiki.devchix.com/index.php?title=Workshop_Resources_and_Next_Steps
 
 !SLIDE subsection
 # Preguntas?
