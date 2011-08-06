@@ -28,3 +28,9 @@
 * 3:30-4:00 Conclusión y preguntas
 * 5:00- Party!
 
+<!SLIDE bullets transition=fade>
+# Instalación
+* Si no pudiste asistir ayer o necesitas ayuda pide ayuda a un voluntario
+* y sigue las instrucciones de nuestra wiki:
+
+* http://www.wiki.devchix.com/index.php?title=Instalacion 

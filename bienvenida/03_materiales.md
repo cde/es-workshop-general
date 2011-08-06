@@ -3,7 +3,9 @@
 # Materiales accesibles y grátis
 * DevChix wiki, RailsBridge wiki
 * Slides: github, showoff
-* Ver github.com/railsbridge
+* mail list: Unete a nosotros!
+* railsbridge-espanol@googlegroups.com
+* railsbridge-workshops@googlegroups.com 
 * Tío Google
 
 
@@ -19,5 +21,5 @@
 
 <!SLIDE bullets>
 ## Materiales
-* slides: http://railsbridge.github.com/workshop
+* slides: http://es-workshop.heroku.com/
 * http://www.wiki.devchix.com/index.php?title=Workshop_in_Spanish

@@ -2,9 +2,7 @@
 # <img src="/images/railsbridge_logo.png">
 ## Bienvenido al Taller Ruby on Rails en Español!
 
-<!SLIDE bullets incremental transition=fade>
-* Primer Taller en Español 
-* RailsBridge busca la diversidad ....
+<!SLIDE title-slide center bullets incremental transition=fade>
 <div>
 	<img src="/images/diversity1.jpg">
 </div>
